@@ -1,5 +1,2 @@
-1244
-12
-2
-sdkl
-sdkfl hello
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
